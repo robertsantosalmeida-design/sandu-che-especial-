@@ -1,6 +1,9 @@
 body{
 background-color: aqua;
 color: blueviolet;
+display: flex;
+justify-content: center;
+align-items: center;
 
 }
 
