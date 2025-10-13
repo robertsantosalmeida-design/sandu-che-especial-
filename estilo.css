@@ -4,7 +4,12 @@ color: blueviolet;
 display: flex;
 justify-content: center;
 align-items: center;
-
+margin: 0;
 }
 
-
+{
+button{
+background-color: brown;
+color: aliceblue;
+padding: 20px;
+}
